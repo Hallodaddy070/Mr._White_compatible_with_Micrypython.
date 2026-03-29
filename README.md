@@ -7,6 +7,6 @@ There is a new role! Undercover gets a word that has something to do with the wo
 
 # How to download
 
-After connecting your fx-CG50, paste the file (Mr.\_White\_\(version).py) beside the other files (not inside any folder, you can paste it inside a folder in the Python app but this is the fastest way.). When you open Python you will see it there, click run to play.
+After connecting your fx-CG50, paste the file (Mr\_White\_\(version).py) beside the other files (not inside any folder, you can paste it inside a folder in the Python app but this is the fastest way.). When you open Python you will see it there, click run to play.
 
 Please note that I am not good at coding, its my first time making something outside of scratch. The file size can probably be made way smaller with good optimisation.
