@@ -337,7 +337,7 @@ while running :
       stop_game = False
 
       print("- to end game.")
-      print("Who is not innocent?")
+      print("Who isn't innocent?")
       Imposter_guess_str = input()
 
       if Imposter_guess_str == '-':
