@@ -1,7 +1,7 @@
 # Mr. White (Compatible with Micrypython, played in console)
 Mr. White is a game where everyone gets a word and one person doesn't. After that everyone says a word relating to the word while the imposter tries not to get caught. Played in console, compatible with Micropython. To play you choose the number of players and imposters, after you see your word you pass the calculator on to the next person. Made for fx-CG50, probably functional in other graphing calculators with Micropython. 
 
-1.3
+v1.3
 
 There is a new role! Undercover gets a word that has something to do with the word that the innocents have. I was too lazy to come up with words for all 440 words myself, so I used chatgpt to make the undercover word list. I have read through the list and it looks good so don't worry.
 
