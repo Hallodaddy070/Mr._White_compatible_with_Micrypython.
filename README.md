@@ -3,7 +3,7 @@ Mr. White is a game where everyone gets a word and one person doesn't. After tha
 
 v1.3
 
-There is a new role! Undercover gets a word that has something to do with the word that the innocents have. I was too lazy to come up with words for all 440 words myself, so I used chatgpt to make the undercover word list. I have read through the list and it looks good so don't worry.
+There is a new role! The undercover gets a word that is related to the word that the innocents have, but they don't know that they are undercover. I was too lazy to come up with words for all 440 words myself, so I used chatgpt to make the undercover word list. I have read through the list and it looks good.
 
 # How to download
 
