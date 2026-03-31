@@ -17,6 +17,6 @@ _File Name Display_
   
 _Only py files whose file names consist of ASCII characters* are displayed on the Python mode file list screen. Files with file names that include non-ASCII characters are not displayed. However, the characters below are not allowed in file names. \ / : * ? " < > | ._
 
-After connecting your fx-CG50, paste the file beside the other files (not inside any folder, you can paste it inside a folder in the Python app but this is the fastest way.). When you open Python you will see it there, click run to play.
+After connecting your fx-CG50, paste the file (the one with the highest number is the newest one) beside the other files (not inside any folder, you can paste it inside a folder in the Python app but this is the fastest way.). When you open Python you will see it there, click run to play.
 
 Please note that I am not good at coding, its my first time making something outside of scratch. The file size can probably be made way smaller with good optimisation.
