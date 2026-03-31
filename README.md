@@ -13,9 +13,9 @@ I couldn't play the game myself on my calculator and thought it was because of f
   
   Casio fx-CG50 software manual 17-22:
  
-_  _File Name Display_
+_File Name Display_
   
-_Only py files whose file names consist of ASCII characters* are displayed on the Python mode file list screen. Files with file names that include non-ASCII characters are not displayed. However, the characters below are not allowed in file names. \ / : * ? " < > | ._
+_Only py files whose file names consist of ASCII characters* are displayed on the Python mode file list screen. Files with file names that include non-ASCII characters are not displayed. However, the characters below are not allowed in file names. \ / : * ? " < > | .
 _
 
 After connecting your fx-CG50, paste the file beside the other files (not inside any folder, you can paste it inside a folder in the Python app but this is the fastest way.). When you open Python you will see it there, click run to play.
