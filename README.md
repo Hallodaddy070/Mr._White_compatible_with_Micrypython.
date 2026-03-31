@@ -9,7 +9,7 @@ There is a new role! The undercover gets a word that is related to the word that
 IMPORTANT!
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-I couldn't play the game myself on my calculator and thought it was because of file size. It was because of the name of the file. Sorry to everyone who didn't know about this and didn't understand why they couldn't play the game even though they downloaded it.
+I couldn't play the game myself on my calculator and thought it was because of file size. It was because of the name of the file. Sorry to everyone who didn't know about this and didn't understand why they couldn't play the game even though they downloaded it. It is fixed now.
   
   Casio fx-CG50 software manual:
   File Name Display
