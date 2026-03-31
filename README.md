@@ -11,12 +11,13 @@ IMPORTANT!
 
 I couldn't play the game myself on my calculator and thought it was because of file size. It was because of the name of the file. Sorry to everyone who didn't know about this and didn't understand why they couldn't play the game even though they downloaded it. It is fixed now.
   
-  Casio fx-CG50 software manual 17:22:
+  Casio fx-CG50 software manual 17-22:
  
 _  _File Name Display_
   
 _Only py files whose file names consist of ASCII characters* are displayed on the Python mode file list screen. Files with file names that include non-ASCII characters are not displayed. However, the characters below are not allowed in file names. \ / : * ? " < > | ._
 _
+
 After connecting your fx-CG50, paste the file beside the other files (not inside any folder, you can paste it inside a folder in the Python app but this is the fastest way.). When you open Python you will see it there, click run to play.
 
 Please note that I am not good at coding, its my first time making something outside of scratch. The file size can probably be made way smaller with good optimisation.
