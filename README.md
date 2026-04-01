@@ -5,6 +5,8 @@ v1.3
 
 There is a new role! The undercover gets a word that is related to the word that the innocents have, but they don't know that they are undercover. I was too lazy to come up with words for all 440 words myself, so I used chatgpt to make the undercover word list. I have read through the list and it looks good.
 
+If you have any ideas for new roles tell me in the Discussions tab!
+
 # How to download
 IMPORTANT!
 ----------------------------------------------------------------------------------------------------------------------------------------------------
