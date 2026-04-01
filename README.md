@@ -11,7 +11,7 @@ If you have any ideas for new roles tell me in the Discussions tab!
 IMPORTANT!
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-I couldn't play the game myself on my calculator and thought it was because of file size. It was because of the name of the file. Sorry to everyone who didn't know about this and didn't understand why they couldn't play the game even though they downloaded it. It is fixed now.
+I couldn't play the game myself on my calculator and thought it was because of the size of the file. It was because of the name of the file. Sorry to everyone who didn't know about this and didn't understand why they couldn't play the game even though they downloaded it. It is fixed now.
   
   Casio fx-CG50 software manual 17-22:
  
