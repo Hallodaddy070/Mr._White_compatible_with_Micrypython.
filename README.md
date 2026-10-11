@@ -11,6 +11,10 @@ v1.5
 
 There is 1 new role! The fool gets a random word. You can also choose the amount of Mr Wht/Undrcvrs at the beginning of a game. If you get that role, you are either Mr White or undercover. I added this so that at the beginning of a game you can't see how many Mr Whites or undercovers there will be. Not knowing which roles, and how many of them are in the game can make the game more fun.
 
+v1.6
+
+The word list gets shuffled now and the dutch version is now uploaded.
+
 # How to download
 IMPORTANT!
 ----------------------------------------------------------------------------------------------------------------------------------------------------
